@@ -159,6 +159,11 @@ background.png — gambar latar belakang beranda
 Folder dokumen/ menyimpan aset gambar yang digunakan website. Nama file dan folder harus sesuai dengan lokasi yang dipanggil pada kode HTML agar gambar dapat ditampilkan dengan benar.
 
 ## Website dan Repository URL GitHub Pages dan URL repository. 
+Repository URL GitHub Pages
+
+
+URL repository
+https://github.com/kdwisnu5-sys/UTS-PemWeb
 
 ## Referensi Sumber informasi, gambar, dan aset.
 1. Iskandar, O. (2024). Analisis kejahatan online phishing pada masyarakat. Leuser: Jurnal Hukum Nusantara, 1(2), 32–36.
