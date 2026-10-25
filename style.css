@@ -475,6 +475,117 @@ span {
     color: #7C2D12;
 }
 
+/* etika */
+.section-etika-1{
+    background-color: #111827;
+    min-height: 65vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.etika-teks{
+    color: #FFF7ED;
+    text-align: center;
+    max-width: 650px;
+    padding: 0 20px;
+    font-size: 17px;
+}
+
+.h1-etika-1{
+    animation: naik 1s ease-out forwards;
+    animation-delay: 0.5s;
+    opacity: 0;
+    margin: 0;
+}
+
+.etika-teks p{    
+    animation: naik 1s ease-out forwards;
+    animation-delay: 1s;
+    opacity: 0;
+    margin: 0;
+}
+
+.section-etika-2{
+    background-color: #FFF7ED;
+    padding: 40px 0;
+    font-size: 17px;
+}
+
+.artikel-etika-1{
+    background-color: #FFFAF2;
+    border: 1px solid #E7D8C5;
+    color: #292524;
+    width: 50%;
+    border-radius: 14px;
+    margin: 20px auto 0;
+    padding: 20px;
+    animation: naik 0.5s ease-out 0.5s forwards;
+}
+
+.artikel-etika-1 h2{
+    color: #7C2D12;
+}
+
+.artikel-etika-2{
+    background-color: #FFFAF2;
+    border: 1px solid #E7D8C5;
+    color: #292524;
+    width: 50%;
+    border-radius: 14px;
+    margin: 20px auto 0;
+    padding: 20px;
+    animation: naik 0.5s ease-out 0.5s forwards;
+}
+
+.artikel-etika-2 h2{
+    color: #7C2D12;
+}
+
+.artikel-etika-3{
+    background-color: #FFFAF2;
+    border: 1px solid #E7D8C5;
+    color: #292524;
+    width: 50%;
+    border-radius: 14px;
+    margin: 20px auto 0;
+    padding: 20px;
+    animation: naik 0.5s ease-out 0.5s forwards;
+}
+
+.artikel-etika-3 h2{
+    color: #7C2D12;
+}
+
+.artikel-etika-4{
+    background-color: #FFFAF2;
+    border: 1px solid #E7D8C5;
+    color: #292524;
+    width: 50%;
+    border-radius: 14px;
+    margin: 20px auto 0;
+    padding: 20px;
+    animation: naik 0.5s ease-out 0.5s forwards;
+}
+
+.artikel-etika-4 h2{
+    color: #7C2D12;
+}
+
+.artikel-etika-5{
+    background-color: #FFFAF2;
+    border: 1px solid #E7D8C5;
+    color: #292524;
+    width: 50%;
+    border-radius: 14px;
+    margin: 20px auto 0;
+    padding: 20px;
+    animation: naik 0.5s ease-out 0.5s forwards;
+}
+
+.artikel-etika-5 h2{
+    color: #7C2D12;
+}
 
 
 
