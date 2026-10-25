@@ -1016,4 +1016,74 @@ span {
     }
 }
 
+/* destop */
+@media screen and (min-width: 1025px) {
+    .header {
+        left: 10%;
+        width: 80%;
+    }
 
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+        padding: 20px 28px;
+    }
+
+    .navbar h1 {
+        margin: 0;
+        font-size: 26px;
+        position: relative;
+        top: 3px;
+    }
+
+    .navbar a{
+        position: relative;
+        top: 5px;
+    }
+
+    .menu-hp {
+        display: none;
+    }
+
+    .artikel-keamanan-1 {
+        width: 70%;
+    }
+
+    .artikel-keamanan-2 {
+        width: 70%;
+    }
+
+    .artikel-keamanan-3 {
+        width: 70%;
+    }
+
+    .section-hoax-2 {
+        width: 90%;
+    }
+
+    .artikel-etika-1{
+        width: 70%;
+    }
+
+    .artikel-etika-2 {
+        width: 70%;
+    }
+
+    .artikel-etika-3 {
+        width: 70%;
+    }
+
+    .artikel-etika-4 {
+        width: 70%;
+    }
+
+    .artikel-etika-5 {
+        width: 70%;
+    }
+
+    .section-panduan-2 {
+        width: 90%;
+    }
+}
