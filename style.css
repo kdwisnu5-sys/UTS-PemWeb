@@ -834,5 +834,186 @@ span {
     }
 }
 
+/* tablet */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+    .header {
+        position: fixed;
+        top: 12px;
+        left: 3%;
+        width: 94%;
+        height: auto;
+    }
+
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 12px 18px;
+    }
+
+    .navbar h1 {
+        margin: 0;
+        font-size: 20px;
+    }
+
+    .navbar-laptop-tablet {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px 14px;
+    }
+
+    .navbar-laptop-tablet a {
+        margin: 0;
+        font-size: 13px;
+    }
+
+    .menu-hp {
+        display: none;
+    }
+
+    .section-beranda-2 {
+        width: 90%;
+    }
+
+    .grid-beranda {
+        gap: 25px;
+    }
+
+    .articel-beranda-1 {
+        padding: 18px;
+    }
+
+    .articel-beranda-2 {
+        padding: 18px;
+    }
+
+    .articel-beranda-3 {
+        padding: 18px;
+    }
+
+    .articel-beranda-4 {
+        padding: 18px;
+    }
+
+    .section-keamanan-2 {
+        padding: 32px 0;
+    }
+
+    .artikel-keamanan-1 {
+        width: 80%;
+    }
+
+    .artikel-keamanan-2 {
+        width: 80%;
+    }
+
+    .artikel-keamanan-3 {
+        width: 80%;
+    }
+
+    .section-hoax-2 {
+        gap: 20px;
+    }
+
+    .artikel-hoax-1 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-hoax-2 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-hoax-3 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-hoax-4 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .section-etika-2 {
+        padding: 32px 0;
+    }
+
+    .artikel-etika-1 {
+        width: 80%;
+    }
+
+    .artikel-etika-2 {
+        width: 80%;
+    }
+
+    .artikel-etika-3 {
+        width: 80%;
+    }
+
+    .artikel-etika-4 {
+        width: 80%;
+    }
+
+    .artikel-etika-5 {
+        width: 80%;
+    }
+
+    .artikel-panduan-1 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-panduan-2 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-panduan-3 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-panduan-4 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-panduan-5 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .artikel-panduan-6 {
+        width: auto;
+        min-width: 0;
+        margin: 0;
+        padding: 18px;
+    }
+
+    .footer br {
+        display: none;
+    }
+}
 
 
