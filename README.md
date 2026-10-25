@@ -18,13 +18,13 @@ Panduan digital	panduan.html	Memberikan langkah praktis menjaga keamanan akun, p
 #Teknologi
 HTML5: digunakan untuk menyusun struktur halaman website menggunakan elemen seperti header, nav, main, section, article, dan footer.
 CSS3: digunakan untuk mengatur warna, ukuran teks, jarak, latar belakang, border, dan animasi.
-Flexbox: digunakan untuk mengatur posisi logo dan navigasi agar sejajar.
+Flexbox: Digunakan untuk mengatur posisi nama website dan menu navigasi agar sejajar dalam satu baris.
 CSS Grid: digunakan untuk menyusun kartu topik pembelajaran dan artikel dalam beberapa kolom.
 CSS Media Queries: digunakan untuk menyesuaikan tampilan website pada perangkat HP, tablet, dan desktop.
 
 #Penjelasan Implementasi
 A. Navigasi website
-Navigasi menggunakan elemen HTML <nav> yang berada di dalam <escape><header></escape>. Tautan mengarah ke lima halaman website sehingga pengguna dapat berpindah halaman.
+Navigasi menggunakan elemen HTML <nav> yang berada di dalam<header>. Tautan mengarah ke lima halaman website sehingga pengguna dapat berpindah halaman.
 Contoh kode HTML:
 <nav class="navbar">
     <h1>Cerdas <span>Digital</span></h1>
@@ -157,3 +157,26 @@ dokumen/
 background.png — gambar latar belakang beranda
 
 Folder dokumen/ menyimpan aset gambar yang digunakan website. Nama file dan folder harus sesuai dengan lokasi yang dipanggil pada kode HTML agar gambar dapat ditampilkan dengan benar.
+
+## Website dan Repository URL GitHub Pages dan URL repository. 
+
+## Referensi Sumber informasi, gambar, dan aset.
+1. Iskandar, O. (2024). Analisis kejahatan online phishing pada masyarakat. Leuser: Jurnal Hukum Nusantara, 1(2), 32–36.
+2. Cahyanto, T. A., Wahanggara, V., & Ramadana, D. (2017). Analisis dan deteksi malware menggunakan metode malware analisis dinamis dan malware analisis statis. JUSTINDO, 2(1), 19–30.
+3. Aska, M. F., Putra, D. P., & Sinambela, C. J. M. (2024). Strategi efektif untuk implementasi keamanan siber di era digital. Journal of Informatic and Information Security, 5(2), 187–200.
+4. Juditha, C. (2018). Hoax communication interactivity in social media and anticipation (Interaksi komunikasi hoax di media sosial serta antisipasinya). Jurnal Pekommas, 3(1), 31–44.
+5. Aveny, A. K. M., Mahendra, Y. T., & Saputra, D. (2023). Literasi digital sebagai upaya menangkal hoax di lingkungan masyarakat Indonesia. Jurnal Tonggak Pendidikan Dasar: Jurnal Kajian Teori dan Hasil Pendidikan Dasar, 2(1), 32–43.
+6. Langit, R. A. S., Supriono, A., Hasanah, J., Faidah, A., Suciati, L. P., Kusmiati, A., & Agustina, T. (2025). Peningkatan literasi digital masyarakat Patrang melalui pemanfaatan aplikasi Hoax Buster Tools. Jurnal Abdimas Gorontalo (JAG), 8(2), 148–154.
+7. Sari, A. P. (2025). Penerapan Autentikasi Dua Faktor (2FA) untuk Melindungi Data Pribadi pada Layanan Media Sosial. Jurnal STARDIA, 1(1), 60–65.
+8. Anan, M., Rahmah, S. A., & Risuhendri, R. (2024). Meningkatkan Kesadaran Digital dalam Pencegahan Penipuan Online untuk Kelompok UMKM Desa Tanjung Haratan. Abdi Dalem: Jurnal Pengabdian kepada Masyarakat, 1(2), 56–63.
+9. Priscyllia, F. (2019). Perlindungan Privasi Data Pribadi Perspektif Perbandingan Hukum. Jatiswara, 34(3), 239–249.
+10. Simangunsong, A., Barus, E. B. B., & Hasugian, P. S. (2025). Peningkatan Literasi Digital pada Anak dan Remaja dalam Penggunaan Internet Sehat dan Aman. Jurnal Pengabdian kepada Masyarakat Nusantara, 6(1), 97–105.
+11. Fadilah, A., Aranggraeni, R., & Putri, S. R. (2021). Eksistensi Keamanan Siber terhadap Tindakan Cyberstalking dalam Sistem Pertanggungjawaban Pidana Cybercrime. Syntax Literate: Jurnal Ilmiah Indonesia, 6(4), 1555–1572.
+12. Eniyati, S., Santi, R. C. N., Lusiana, V., Hartono, B., Yulianton, H., & Sutanto, F. A. (2025). Peningkatan Literasi Digital Anak Sekolah Dasar melalui Penggunaan Internet yang Aman dan Edukatif. ARSY: Jurnal Aplikasi Riset kepada Masyarakat, 6(2), 514–519.
+13. Tumanggor, T., & Sazali, H. (2025). Etika Regulasi dan Kebijakan Media Digital: Meningkatkan Kesadaran Publik di Era Informasi. Jurnal Indonesia: Manajemen Informatika dan Komunikasi, 6(3), 1657–1669.
+14. Subhan, F., Sipahutar, I. Z., Manalu, J., Nababan, R., Sinurat, R., & Manik, S. G. (2023). Sinergisitas pendidikan kewarganegaraan dalam meminimalisir tindakan cyberbullying di dunia digital. Jurnal Pendidikan Kewarganegaraan dan Politik, 1(2), 96–110.
+
+#Gambar
+1. https://pin.it/6oinOCM19
+#Simbol
+1. https://symbl.cc/en/2630/
