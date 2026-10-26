@@ -160,7 +160,7 @@ Folder dokumen/ menyimpan aset gambar yang digunakan website. Nama file dan fold
 
 ## Website dan Repository URL GitHub Pages dan URL repository. 
 Repository URL GitHub Pages
-
+https://kdwisnu5-sys.github.io/UTS-PemWeb/
 
 URL repository
 https://github.com/kdwisnu5-sys/UTS-PemWeb
